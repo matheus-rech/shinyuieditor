@@ -8,7 +8,7 @@
   "type": "module",
   "description": "Makes a self-contained function for generating a python code parsing instance of tree-sitter",
   "devDependencies": {
-    "esbuild": "^0.17.8",
+    "esbuild": "^0.25.0",
     "tree-sitter-cli": "^0.20.8",
     "shared-configs": "*",
     "typescript": "^5.0.4"
